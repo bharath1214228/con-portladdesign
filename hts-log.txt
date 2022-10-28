@@ -1,0 +1,58 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 16:41:36 at https://mosaikdesign.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mosaikdesign.com/ -O1 "C:\Users\dell\Desktop\barath\con10" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:43:11	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://mosaikdesign.com/)
+16:43:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mosaikdesign.com/xmlrpc.php (from https://mosaikdesign.com/)
+16:43:12	Warning: 	Moved Permanently for mosaikdesign.com/robots.txt
+16:43:12	Warning: 	Redirected link is identical because of 'URL Hack' option: mosaikdesign.com/robots.txt and https://mosaikdesign.com/robots.txt
+16:43:12	Warning: 	Warning moved treated for mosaikdesign.com/robots.txt (real one is https://mosaikdesign.com/robots.txt)
+16:43:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mosaikdesign.com/xmlrpc.php?rsd (from https://mosaikdesign.com/)
+16:43:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mosaikdesign.com/wp-includes/wlwmanifest.xml (from https://mosaikdesign.com/)
+16:45:51	Error: 	Exit requested by shell or user
+16:45:52	Warning: 	File not added due to mirror cancel: https://mosaikdesign.com/wp-content/et-cache/484/et-core-unified-deferred-484.min.css?ver=1666319812
+16:45:54	Warning: 	Moved Permanently for https://mosaikdesign.com/reviews/
+16:45:54	Warning: 	File has moved from https://mosaikdesign.com/reviews/ to /press/
+16:45:56	Warning: 	Moved Permanently for https://mosaikdesign.com/author/delmain/
+16:45:56	Warning: 	File has moved from https://mosaikdesign.com/author/delmain/ to https://mosaikdesign.com
+16:46:07	Error: 	"Bad Request" (400) at link https://mosaikdesign.com/wp-admin/admin-ajax.php (from https://mosaikdesign.com/)
+16:46:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mosaikdesign.com/xmlrpc.php (from https://mosaikdesign.com/)
+16:46:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mosaikdesign.com/xmlrpc.php?rsd (from https://mosaikdesign.com/)
+16:46:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mosaikdesign.com/wp-includes/wlwmanifest.xml (from https://mosaikdesign.com/)
+16:46:08	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=482
+16:46:08	Warning: 	File has moved from https://mosaikdesign.com/?p=482 to https://mosaikdesign.com/our-services/
+16:46:10	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=488
+16:46:10	Warning: 	File has moved from https://mosaikdesign.com/?p=488 to https://mosaikdesign.com/our-services/portland-kitchen-remodel/
+16:46:11	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=8861
+16:46:11	Warning: 	File has moved from https://mosaikdesign.com/?p=8861 to https://mosaikdesign.com/our-services/portland-bathroom-remodel/
+16:46:11	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=8887
+16:46:11	Warning: 	File has moved from https://mosaikdesign.com/?p=8887 to https://mosaikdesign.com/our-services/portland-basement-remodel/
+16:46:11	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=8896
+16:46:11	Warning: 	File has moved from https://mosaikdesign.com/?p=8896 to https://mosaikdesign.com/our-services/portland-home-addition-remodel/
+16:46:11	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=8332
+16:46:11	Warning: 	File has moved from https://mosaikdesign.com/?p=8332 to https://mosaikdesign.com/our-services/interior-design/
+16:46:11	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=8878
+16:46:11	Warning: 	File has moved from https://mosaikdesign.com/?p=8878 to https://mosaikdesign.com/our-services/portland-whole-home-remodel/
+16:46:11	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=483
+16:46:11	Warning: 	File has moved from https://mosaikdesign.com/?p=483 to https://mosaikdesign.com/portfolio/
+16:46:26	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=8447
+16:46:26	Warning: 	File has moved from https://mosaikdesign.com/?p=8447 to https://mosaikdesign.com/portfolio/kitchen-portfolios/
+16:46:26	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=8487
+16:46:26	Warning: 	File has moved from https://mosaikdesign.com/?p=8487 to https://mosaikdesign.com/portfolio/bathroom-portfolios/
+16:46:27	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=1100
+16:46:27	Warning: 	File has moved from https://mosaikdesign.com/?p=1100 to https://mosaikdesign.com/portfolios/interior-design-portfolio/
+16:46:27	Warning: 	Moved Permanently for https://mosaikdesign.com/?p=484
+16:46:27	Warning: 	File has moved from https://mosaikdesign.com/?p=484 to https://mosaikdesign.com/design-build-process/
+16:46:27	Warning: 	File not added due to mirror cancel: https://mosaikdesign.com/xmlrpc.php
+16:46:27	Error: 	"mirror stopped by user" (-1) at link https://mosaikdesign.com/xmlrpc.php (from https://mosaikdesign.com/)
+16:46:27	Warning: 	File not added due to mirror cancel: https://mosaikdesign.com/xmlrpc.php?rsd
+16:46:27	Error: 	"mirror stopped by user" (-1) at link https://mosaikdesign.com/xmlrpc.php?rsd (from https://mosaikdesign.com/)
+16:46:27	Warning: 	File not added due to mirror cancel: https://mosaikdesign.com/wp-includes/wlwmanifest.xml
+16:46:27	Error: 	"mirror stopped by user" (-1) at link https://mosaikdesign.com/wp-includes/wlwmanifest.xml (from https://mosaikdesign.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 51 seconds : 368 links scanned, 341 files written (42219733 bytes overall) [23643965 bytes received at 81250 bytes/sec], 22974987 bytes transferred using HTTP compression in 180 files, ratio 18%, 20.2 requests per connection
+(6 errors, 41 warnings, 0 messages)
